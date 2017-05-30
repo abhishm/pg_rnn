@@ -1,0 +1,19 @@
+{
+  "batch_size": 10,
+  "entropy_bonus": 0.01,
+  "env_name": "Acrobot-v1",
+  "gru_unit_size": 16,
+  "learning": {"learning_rate": 0.01,
+               "learning_adaptive": 1,
+               "decay_steps": 1000,
+               "decay_rate": 0.9
+             },
+  "loss_function": "cross_entropy",
+  "max_gradient_norm": 5.0,
+  "max_step": 500,
+  "num_itr": 5000,
+  "num_layers": 1,
+  "num_step": 10,
+  "train": 0,
+  "discount": 1.0
+}
