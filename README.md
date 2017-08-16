@@ -27,6 +27,6 @@ To view the tensorboard
 # Results
 
 - Tensorboard Progress Bar
-![](https://github.com/abhishm/pg_rnn/tb_pg_rnn.JPG)
+![](tb_pg_rnn.JPG)
 
 
